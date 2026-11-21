@@ -1,6 +1,6 @@
 const portalSettings = {
     pageTitle: "FCAI Activity Portal",
-    statusMessage: "Event search is ready."
+    statusMessage: "Event search and category filtering are ready."
 };
 
 const searchSettings = {
@@ -8,7 +8,7 @@ const searchSettings = {
 };
 
 const categorySettings = {
-    defaultCategory: "all"
+    defaultCategory: "tech"
 };
 
 console.log(portalSettings);
