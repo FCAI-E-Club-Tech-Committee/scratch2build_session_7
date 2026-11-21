@@ -1,6 +1,6 @@
 const portalSettings = {
     pageTitle: "FCAI Activity Portal",
-    statusMessage: "The portal is currently unavailable."
+    statusMessage: "Event search and category filtering are ready."
 };
 
 const searchSettings = {
