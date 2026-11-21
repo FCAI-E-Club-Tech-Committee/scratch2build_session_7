@@ -1,10 +1,10 @@
 const portalSettings = {
     pageTitle: "FCAI Activity Portal",
-    statusMessage: "All events are displayed."
+    statusMessage: "Event search is ready."
 };
 
 const searchSettings = {
-    placeholder: "Search..."
+    placeholder: "Search events by title..."
 };
 
 const categorySettings = {
