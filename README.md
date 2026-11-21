@@ -170,7 +170,18 @@ The graph should show:
 ```text
 # paste the output of the command above here
 ```
- 
+* 7790dd3 (HEAD -> main, origin/main, origin/HEAD) Revert "chore: set status message to portal unavailable"
+* 4c79c23 chore: set status message to portal unavailable
+*   ba6542d merge: combine event search and category filtering
+|\  
+| * 723cee3 (feature/category-filter) feat(category): default to tech category and update status message
+* | 341ccb2 (feature/event-search) feat(search): update search placeholder and status message
+|/  
+* 20c27cd Create style.css
+* c769eb3 Add initial script.js with portal and search settings
+* 404423e Add initial HTML structure for FCAI Activity Portal
+* 357cf18 Revise README for Scratch2Build Git assignment
+* 8765614 Add session details to README
 ---
  
 ## Final State
